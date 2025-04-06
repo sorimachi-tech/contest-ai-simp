@@ -1,1 +1,0 @@
-### contest-ai-simp
