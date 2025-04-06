@@ -1,0 +1,7 @@
+version: "2"
+authtoken: 2vL1OBefkZ495xEMnFyHSvzTpSQ_43Pb8ZuPNBLfePPuG2Vzb
+tunnels:
+  plant-disease:
+    proto: http
+    addr: 5000
+    inspect: false 
